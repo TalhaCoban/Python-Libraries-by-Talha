@@ -8,10 +8,8 @@ import time
 import csv
 
 
-username = "talhacoban1998"
-password = "05433516224"
 
-hashtag = "Meral Akşener"
+hashtag = "KAAN"
 
 
 
