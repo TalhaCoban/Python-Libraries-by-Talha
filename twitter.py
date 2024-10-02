@@ -8,6 +8,8 @@ import time
 import csv
 
 
+username = "your-username"
+password = "your-password"
 
 hashtag = "KAAN"
 
